@@ -14,8 +14,7 @@ require (
 
 require (
 
-	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/elasticexporter/internal/translator/elastic v0.47.0 //indirect
-
+	
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
 	github.com/elastic/elastic-agent-libs v0.2.11
 	github.com/elastic/go-elasticsearch/v7 v7.17.1
