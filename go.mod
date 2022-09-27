@@ -2,7 +2,7 @@ module github.com/Suraj-Shivagange/vusmartmapsexporter
 
 go 1.18
 
-require go.opentelemetry.io/collector v0.60.0
+require go.opentelemetry.io/collector v0.57.2
 
 require (
 	github.com/hashicorp/errwrap v1.0.0 // indirect
